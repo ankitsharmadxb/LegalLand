@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>LegalLand.ViewModel2._0</RootNamespace>
+    <AssemblyName>LegalLand.ViewModel2.0</AssemblyName>
+  </PropertyGroup>
+
+</Project>
